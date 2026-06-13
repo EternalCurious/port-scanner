@@ -80,9 +80,9 @@ A fast, multithreaded TCP port scanner written in Python. Detects open ports, id
 3.  Worker threads pull ports from the queue and attempt TCP connections
 4. Open ports are recorded with their service name and optional banner
 5. Results are sorted and displayed in a formatted table                           
-6. ## Legal Disclaimer
-7. This tool is intended for **authorized testing only**. Only scan systems you own or have explicit permission to test. Unauthorized port scanning may be illegal.
+
+##Legal Disclaimer
+This tool is intended for **authorized testing only**. Only scan systems you own or have explicit permission to test. Unauthorized port scanning may be illegal.
                            
-                            8. ## License
                            
-                            9. MIT License — see [LICENSE](LICENSE) for details.
+ MIT License — see [LICENSE](LICENSE) for details.
