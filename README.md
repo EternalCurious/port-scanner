@@ -17,10 +17,9 @@ A fast, multithreaded TCP port scanner written in Python. Detects open ports, id
     - No external dependencies — uses only the Python standard library
              
     - ## Installation
-             
-      - ```bash
-      git clone https://github.com/EternalCurious/port-scanner.git
-      cd port-scanner
+       ```bash
+          git clone https://github.com/EternalCurious/port-scanner.git
+          cd port-scanner
       ```
 
     ## Usage
